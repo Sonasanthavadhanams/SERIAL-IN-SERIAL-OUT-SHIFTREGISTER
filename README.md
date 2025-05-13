@@ -1,5 +1,10 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
+NAME : SONA .S 
+
+RegisterNumber: 212224110049
+
+
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
@@ -54,13 +59,11 @@ endmodule
 
 ```
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: SONA .S 
 
-RegisterNumber: 212224110049
 
-*/
+
+
 
 **RTL LOGIC FOR SISO Shift Register**
 
